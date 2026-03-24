@@ -1,0 +1,8 @@
+                  Metric  Value
+0             Total rows      8
+1         Duplicate rows      2
+2    Invalid Loan Amount      2
+3  Invalid Interest Rate      2
+4  Missing Borrower Name      1
+5    Invalid Loan Status      0
+6          Quality Score      0

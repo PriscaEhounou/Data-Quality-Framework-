@@ -1,0 +1,9 @@
+Loan_ID,Borrower_Name,Loan_Amount,Interest_Rate,Loan_Status
+1001,John Smith,250000,6.5,Approved
+1002,Sarah Lee,180000,5.9,Pending
+1003,,300000,7.1,Approved
+1004,David Brown,-150000,6.2,Rejected
+1005,Emily Davis,220000,25.0,Approved
+1002,Sarah Lee,180000,5.9,Pending
+1006,Michael Johnson,,4.8,Approved
+1007,Alice White,275000,,Approved
